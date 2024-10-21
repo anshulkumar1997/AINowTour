@@ -1,0 +1,14 @@
+{
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "message" : {
+      "title" : "message",
+      "description" : "The outcome of the operation",
+      "lightning:type" : "lightning__textType",
+      "lightning:isPII" : false,
+      "copilotAction:isDisplayable" : true,
+      "copilotAction:isUsedByPlanner" : true
+    }
+  },
+  "lightning:type" : "lightning__objectType"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Create a Reservation follow-up task from the case record page</description>
+    <flowDefinition>Create_Reservation_Follow_up</flowDefinition>
+    <label>Create Follow-up Task</label>
+    <optionsCreateFeedItem>false</optionsCreateFeedItem>
+    <type>Flow</type>
+</QuickAction>
